@@ -1,0 +1,28 @@
+@import url('https://fonts.googleapis.com/css2?family=Roboto&display=swap');
+@import '~normalize.css';
+
+
+
+* {
+  margin: 0;
+  padding: 0;
+  box-sizing: border-box;
+}
+
+body {
+  height: 100vh;
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  font-family: 'Roboto', sans-serif;
+  font-size: 12px;
+  background: #1e1e1e;
+  background-image: url('../images/_02.png');
+  background-repeat: no-repeat;
+  background-position: center;
+}
+#about {
+  font-family: 'Roboto';
+  font-size: 0px;
+  
+}
